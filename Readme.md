@@ -15,8 +15,8 @@
 
 ### **📌 과제 진행 방법**
 
-1️⃣ **GitHub에서 원격 레포지토리 Clone 하기**
-
+1️⃣ **GitHub에서 원격 레포지토리 fork,Clone 하기**
+- 본 레포지토리를 fork 합니다. 
 - 공지된 GitHub 저장소를 로컬로 Clone 합니다.
 
 ```bash
